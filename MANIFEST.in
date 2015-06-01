@@ -1,0 +1,4 @@
+include COPYING
+include CHANGES.rst
+include README.rst
+include tox.ini
