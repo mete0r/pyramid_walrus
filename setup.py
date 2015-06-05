@@ -115,10 +115,6 @@ setup_info = {
         'test': tests_require,
     },
     'entry_points': {
-        'console_scripts': ['pyramid_walrus = pyramid_walrus.cli:main'],
-        'zc.buildout': ['default = pyramid_walrus.recipe:Recipe'],
-        'zc.buildout.uninstall': ['default = pyramid_walrus.recipe:uninstall'],
-        'paste.app_factory': ['main = pyramid_walrus.wsgi:app_factory'],
     },
     'classifiers': [
         'Development Status :: 4 - Beta',
