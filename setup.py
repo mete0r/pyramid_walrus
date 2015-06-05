@@ -4,16 +4,16 @@
 #   Copyright (C) 2015 mete0r <mete0r@sarangbang.or.kr>
 #
 #   This program is free software: you can redistribute it and/or modify
-#   it under the terms of the GNU Affero General Public License as published by
+#   it under the terms of the GNU Lesser General Public License as published by
 #   the Free Software Foundation, either version 3 of the License, or
 #   (at your option) any later version.
 #
 #   This program is distributed in the hope that it will be useful,
 #   but WITHOUT ANY WARRANTY; without even the implied warranty of
 #   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#   GNU Affero General Public License for more details.
+#   GNU Lesser General Public License for more details.
 #
-#   You should have received a copy of the GNU Affero General Public License
+#   You should have received a copy of the GNU Lesser General Public License
 #   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 from __future__ import with_statement
@@ -98,7 +98,7 @@ setup_info = {
 
     'author': 'mete0r',
     'author_email': 'mete0r@sarangbang.or.kr',
-    'license': 'GNU Affero General Public License v3 or later (AGPLv3+)',
+    'license': 'GNU Lesser General Public License v3 or later (LGPLv3+)',
     'url': 'https://github.com/mete0r/pyramid_walrus',
 
     'packages': [
@@ -123,7 +123,7 @@ setup_info = {
     'classifiers': [
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)',  # noqa
+        'License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)',  # noqa
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
