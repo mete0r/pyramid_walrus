@@ -122,6 +122,7 @@ setup_info = {
     },
     'classifiers': [
         'Development Status :: 4 - Beta',
+        'Framework :: Pyramid',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)',  # noqa
         'Operating System :: OS Independent',
