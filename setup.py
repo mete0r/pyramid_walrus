@@ -45,14 +45,6 @@ def chdir(new_dir):
 
 @setup_dir
 def import_setuptools():
-    try:
-        import setuptools
-        return setuptools
-    except ImportError:
-        pass
-
-    import ez_setup
-    ez_setup.use_setuptools()
     import setuptools
     return setuptools
 
