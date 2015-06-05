@@ -1,10 +1,11 @@
 Changes
 =======
 
-0.2.0 (unreleased)
+0.1.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Change license to GNU Lesser General Public License v3 or later (LGPLv3+)
+- Fix packaging.
 
 
 0.1.0 (2015-06-05)
